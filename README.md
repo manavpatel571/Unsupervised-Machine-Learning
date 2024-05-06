@@ -20,7 +20,7 @@ To replicate the analysis:
 
 ## Contributors
 
-- [Meet Solanki](https://github.com/MeetSolanki530)
+- [Manav Patel](https://github.com/manavpatel571)
 
 ## License
 
