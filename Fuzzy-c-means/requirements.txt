@@ -1,0 +1,6 @@
+fuzzy_c_means 
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
